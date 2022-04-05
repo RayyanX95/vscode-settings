@@ -1,0 +1,107 @@
+{
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "tabnine.experimentalAutoImports": true,
+  "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "eslint.format.enable": true,
+  "eslint.alwaysShowStatus": true,
+  "eslint.debug": true,
+  "editor.tabSize": 2,
+  "prettier.arrowParens": "avoid",
+  "prettier.jsxSingleQuote": true,
+  "prettier.singleQuote": true,
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "prettier.insertPragma": true,
+  "editor.minimap.maxColumn": 25,
+  "editor.minimap.scale": 2,
+  "[json]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "editor.fontFamily": "Hack,  Consolas, 'Courier New', monospace",
+  "terminal.integrated.fontSize": 13,
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.wordWrap": "wordWrapColumn",
+  "editor.wordWrapColumn": 140,
+  "cSpell.userWords": ["Unmount", "youtube"],
+  "workbench.colorCustomizations": {
+    "[Default Dark+]": {
+      
+      /************************* Work Style **************************/
+      "editor.background": "#1f1f24",
+      "editor.wordHighlightBorder": "#da0994",
+      "editor.wordHighlightStrongBorder": "#da0994",
+      "editorGroupHeader.border": "#321b28",
+      "editorGroupHeader.tabsBackground": "#1f1f24",
+      "editorCursor.foreground": "#da0994",
+      // "editorWidget.background": "#2a3033",
+      "editor.lineHighlightBorder": "#352c34",
+      "editor.lineHighlightBackground": "#231f24",
+      "statusBar.background": "#b4067a",
+      "sideBar.background": "#1f1f24",
+      "sideBar.border": "#3d4244",
+
+      "tab.activeBackground": "#1f1f24",
+      "tab.inactiveBackground": "#1f1f24",
+      "tab.activeBorder": "#da0994",
+      "titleBar.activeBackground": "#1f1f24",
+      "activityBar.background": "#1f1f24",
+
+    },
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.cursorBlinking": "expand",
+  "editor.linkedEditing": true,
+  "files.eol": "\r\n",
+  "prettier.jsxBracketSameLine": true,
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "terminal.integrated.profiles.windows": {
+    "C:\\Program Files\\Git\\bin\\bash.exe (migrated)": {
+      "path": "C:\\Program Files\\Git\\bin\\bash.exe",
+      "args": []
+    }
+  },
+  "thunder-client.codeSnippetLanguage": "cs-httpclient",
+"editor.bracketPairColorization.enabled": true,
+  "yaml.schemas": {
+    "file:///c%3A/Users/Rayyan/.vscode/extensions/atlassian.atlascode-2.9.1/resources/schemas/pipelines-schema.json": "bitbucket-pipelines.yml"
+  },
+  "redhat.telemetry.enabled": true,
+  "atlascode.jira.jqlList": [
+    {
+      "id": "f7deafed-dfa1-4667-a9fe-2906ae2e3874",
+      "enabled": true,
+      "name": "My clearpathlending Issues",
+      "query": "assignee = currentUser() AND resolution = Unresolved ORDER BY lastViewed DESC",
+      "siteId": "be9fb3ba-d17c-497a-aac2-3676cc1c55fc",
+      "monitor": true
+    },
+    {
+      "id": "043c75bd-e470-409a-8c54-192488de1494",
+      "enabled": true,
+      "name": "My terkwaz Issues",
+      "query": "assignee = currentUser() AND resolution = Unresolved ORDER BY lastViewed DESC",
+      "siteId": "6b3f5a6b-5eec-4d4d-bd84-b533e735dabc",
+      "monitor": true
+    }
+  ],
+  "diffEditor.ignoreTrimWhitespace": false,
+"workbench.iconTheme": "material-icon-theme",
+"editor.fontSize": 13.7,
+}
